@@ -7,10 +7,11 @@ As soon as the Apollo GraphQL's server data detects a usage patterns similar to 
 
 ![pageres](https://i.imgur.com/PuGw6dP.jpg)
 
-## Install
+## Install and Start run
 
 ```
 $ npm install 
+$ npm start 
 ```
 
 
