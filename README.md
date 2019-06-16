@@ -10,13 +10,13 @@ As soon as the Apollo GraphQL's server data detects a usage patterns similar to 
 ## Installation and backend Execution
 
 ```
-$git clone https://github.com/Harsh501/hack_2019.git
+$ git clone https://github.com/Harsh501/hack_2019.git
 $ npm install 
 $ npm start 
 ```
 
 
-## Usage
+## Installation and Frontend execution
 Install the  APK on your android phone. 
 Press start recording on the application and the app usage history starts getting populated and at the same time the back end also starts tracking app usage patterns.
 
