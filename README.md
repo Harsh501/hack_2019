@@ -3,7 +3,7 @@
 Let's face it! Everyone is addicted to their smartphones in some way or the other. 
 In order to help people from becoming mindless smartphone zombies, we built an app that identifies such app usage patterns and helps you to break out of the habit by suggesting you activities that are more fulfilling. 
 
-As soon as the Apollo GraphQL's server data detects a usage patterns similar to mindless surfing the app helps by suggesting alternative activities as shown below.
+As soon as the Apollo GraphQL's server data detects a usage patterns similar to reckless surfing of the apps such as Facebook,Instagram,Youtube ,Reddit it helps you by suggesting alternative activities as shown below.
 
 ![pageres](https://i.imgur.com/PuGw6dP.jpg)
 
