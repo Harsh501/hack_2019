@@ -10,7 +10,6 @@ const resolvers = {
         async allPosts() {
 
             return await Post.all();
-
         },
 
         // Get a post by it ID
