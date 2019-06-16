@@ -7,9 +7,10 @@ As soon as the Apollo GraphQL's server data detects a usage patterns similar to 
 
 ![pageres](https://i.imgur.com/PuGw6dP.jpg)
 
-## Install and Start run
+## Installation and backend Execution
 
 ```
+$git clone https://github.com/Harsh501/hack_2019.git
 $ npm install 
 $ npm start 
 ```
